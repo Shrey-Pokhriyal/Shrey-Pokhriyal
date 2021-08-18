@@ -1,22 +1,17 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="https://github.com/Shrey-Pokhriyal/Shrey-Pokhriyal/blob/master/name.svg" alt="Shrey Pokhriyal" />
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 18 years old web developer from Hungary.
+I'm Shrey, a web developer from India.
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+-currently exploring Web Devolepment
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 JavaScript, Node.js
+- 👁️ CSS
+- 💽 Mongo
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
+- [@shrey_pokhriyal](https://www.instagram.com/shrey_pokhriyal) on Instagram
+- [Shrey Pokhriyal#0670](./) on Discord
