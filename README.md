@@ -16,3 +16,4 @@ I'm Shrey, a web developer from India.
 ## Contact
 - [@shrey_pokhriyal](https://www.instagram.com/shrey_pokhriyal) on Instagram
 - [Shrey Pokhriyal#0670](./) on Discord
+- [Shrey Pokhriyal](https://www.linkedin.com/in/shrey-pokhriyal-a0624a206) on LinkedIn
