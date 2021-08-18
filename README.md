@@ -9,7 +9,7 @@ I'm Shrey, a web developer from India.
 -currently exploring Web Devolepment
 
 ## Skills
-- 👨‍💻 JavaScript, Node.js
+- <img src="https://www.clipartmax.com/png/middle/147-1474351_javascript-icon.png" /> JavaScript, Node.js
 - 👁️ CSS
 - 💽 Mongo
 
