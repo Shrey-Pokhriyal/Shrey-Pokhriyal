@@ -10,8 +10,9 @@ I'm Shrey, a web developer from India.
 
 ## Skills
 - JavaScript, Node.js
+- Express
 - 👁️ CSS
-- 💽 Mongo
+- 💽 MongoDB
 
 ## Contact
 - [@shrey_pokhriyal](https://www.instagram.com/shrey_pokhriyal) on Instagram
