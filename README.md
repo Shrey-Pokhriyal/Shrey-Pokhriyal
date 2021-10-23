@@ -6,13 +6,9 @@
 ## Hey! 👋
 I'm Shrey, a web developer from India.
 
--currently exploring Web Devolepment
-
-## Skills
-- JavaScript, Node.js
-- Express
-- 👁️ CSS
-- 💽 MongoDB
+-Currently exploring Web Devolepment
+-open to open source contribution
+-Learning Data structures and Algorithms
 
 ## 🚀 Languages and Tools:
 
