@@ -6,7 +6,7 @@
 ## Hey! 👋
 I'm Shrey, a web developer from India.
 
--Currently exploring Web Devolepment
+-Currently exploring Web Devolepment<br>
 -open to open source contribution
 -Learning Data structures and Algorithms
 
