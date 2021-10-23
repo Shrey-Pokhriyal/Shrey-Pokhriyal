@@ -26,7 +26,13 @@ I'm Shrey, a web developer from India.
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
-
+## Activity
+<p align="center">
+    <a href="https://github.com/Shrey-Pokhriyal/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kailash360's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrey-Pokhriyal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+ 
 ## Contact
 - [@shrey_pokhriyal](https://www.instagram.com/shrey_pokhriyal) on Instagram
 - [Shrey Pokhriyal#0670](./) on Discord
