@@ -34,8 +34,10 @@ I'm Shrey, a web developer from India.
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kailash360's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrey-Pokhriyal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
 ## Some Stats
 <a href="https://github.com/Shrey-Pokhriyal/github-readme-activity-graph"><img alt="Shrey Pokhriyal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shrey-Pokhriyal&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 ## Contact
 - [@shrey_pokhriyal](https://www.instagram.com/shrey_pokhriyal) on Instagram
 - [Shrey Pokhriyal#0670](./) on Discord
